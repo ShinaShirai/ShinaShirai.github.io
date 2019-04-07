@@ -1,0 +1,11 @@
+.box2 {
+    float: left;
+    border-color: yellow;
+    width: 300px;
+  }
+  
+  .box3 {
+    float: none;
+    border-color: yellow;
+    width: auto;
+  }
